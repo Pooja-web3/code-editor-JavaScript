@@ -27,3 +27,9 @@ A lightweight and interactive **Code Editor** built with **HTML**, **CSS**, and 
   
 ---
 
+## 📷 Live Preview
+
+🌐 **Deployed on Vercel:**  
+https://code-editor-java-script.vercel.app/
+---
+
